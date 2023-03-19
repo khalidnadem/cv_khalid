@@ -2,13 +2,11 @@
 name: M Khalid Nadeem
 surname: Khan 
 position: "Deputy Director, Science, Technology and Innovation Analysis"
-# address: "School of Physics & Chemistry, École Normale Supérieure"
 phone: +44 20 7215 6885
-#www: mariecurie.com
-#email: "Khalid.Khane@beis.gov.uk"
+email: "Khalid.Khane@beis.gov.uk"
 date: "`r format(Sys.time(), '%B %Y')`"
-#output: vitae::awesomecv
-output: pdf_document
+output: vitae::awesomecv
+#output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
