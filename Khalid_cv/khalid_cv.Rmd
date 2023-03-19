@@ -1,0 +1,155 @@
+---
+name: M Khalid Nadeem
+surname: Khan 
+position: "Senior Economic Advisor"
+# address: "School of Physics & Chemistry, École Normale Supérieure"
+phone: +44 20 7215 6885
+#www: mariecurie.com
+email: "Khalid.Khane@beis.gov.uk"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Professional Experience
+
+## SENIOR ECONOMIC ADVISOR
+
+## Head of Strategic Innovation Analysis, BEIS. March 2019-ongoing.
+
+* Brief senior leadership, SpAds, ministers, HMT, and No 10 on the evidence-base around R&D and Innovation priorities. 
+* Lead the engagement and manage partner organisations such as UKRI, Innovate UK, UK Space Agency to ensure appraisal and evaluation meet BEIS standards and VfM is ensured.
+* Lead a team of nine analysts to provide policy analysis on BEIS Science Superpower and Unleashing Innovation priorities and programme portfolio of £10billion. 
+* Lead on evidence-base on strategic analytical questions such as the impact of BEIS R&D investment on economic growth, productivity and employment. Make economic case for Comprehensive Spending Review and strategies such as the R&D Roadmap and the Innovation Strategy.
+* Advised OGDs on the appraisal and evaluation of the R&D projects and represent BEIS on national and international forums such as OECD. 
+
+## Head of R&D Appraisal and Evaluation, BEIS. September 2016 – February 2019
+* Improved progress tracking of R&D and innovation investments with better data collection, use of robust evaluation methodology and linking policy making with programme evidence, especially for the National Productivity Investment Fund and the Catapults Network.
+* Established the first mission-oriented innovation fund, the Industrial Strategy Challenge Fund, to invest over £1 billion in grand challenges to meet Industrial Strategy objectives.
+* Built a new team of 7 analysts, coached and trained staff to provide assurance for over 50 policy proposals and dozens of impact assessments to ensure VfM. 
+* Influenced partner organizations i.e. Innovate UK, Research Councils, and Met Office to improve their internal processes to address HMT and NAO criticism.
+* Provided expert advice to MHCLG and OGDs on running RCTs as a member of Cross Government Trial Panel. Advised DCMS, DfT, MoD, DEFRA and other government departments on appraising R&D projects.
+
+## ECONOMIC ADVISOR
+
+## Lead Analyst for the Growth Vouchers Programme, BEIS. 
+July 2013 – August 2016
+
+* Designed RCTs to deliver business advice to small businesses across England. RCTs tested options to improve access to business support through online channels and delivered on PM’s commitment to support over 20,000 small businesses.
+* Worked with contractors and designed an online business recruitment platform to reduce delivery cost and increase access to business support for small businesses.
+* Designed and successfully implemented a leadership and management policy intervention with eight business schools to make it easier to access and use business support. 
+* Designed and implemented programme evaluation, with £0.7million budget. This was the largest R&D in business support area and has significant impact on the design of future programmes such as Help to Grow. 
+
+## Lead Analyst on International Trade and Growth, UK Trade and Investment
+June 2012 – July 2013
+
+* Worked with SMEs to understand and document barriers to exporting. The analysis led to better targeting small business to meet UKTI’s export target.  
+* Identified opportunities in the emerging economies to grow UK exports beyond the existing products and destinations.
+* Managed research programmes and commissioned business surveys to better understand the link between exporting and business growth and exporting and business innovation to improve effectiveness of UKTI’s services.
+
+## Project Manager for Developing Financial Statistics, Office for National Statistics 
+April 2011 – June 2012
+
+* Led ONS response on the coverage and reporting of financial activity after the 2008 financial crisis and worked with HMT, BoE, OBR, BEIS and FCA to have a better data on tracking risks that led to 2008 financial crisis.
+* Conducted a Gap Analysis of the coverage of financial assets flow and developed UK flow-of-funds account. This account identified the counter-party risks and how failure of one action in the financial system negatively affect others and could lead to systemic risk.
+
+## Head of Economic Methods Development Team, Office for National Statistics. 
+Dec 2008 – April 2011
+
+* Developed UK’s first account to reclassify R&D expenditure from consumption to investment and include it in the GDP estimates.
+* Led Innovation Index Project for the ONS. This project was the first attempt to measure intangible capital investment (eg R&D, Design, management capabilities) in the UK and estimated contribution of intangible assets to economic growth.
+* Developed economic cases for over 20 business cases for ONS investments in statistical infrastructure and improvement in delivery of statistical outputs.
+
+## INTERNATIONAL WORK EXPERIENCE
+
+## Adjunct Senior Research Fellow, Institute of Policy Studies, Singapore. 
+July – August 2007
+
+* Reviewed the ‘Competition Policy of Singapore’ and conducted a comparative analysis of Singapore competition regime with other small countries such as New Zealand.
+
+## Research Associate, National Institute of Public Administration, Karachi Pakistan.  Oct 2002 – July 2006
+
+* Supervised over 50 research projects to improve efficiency in public service delivery across many government ministries in Pakistan. 
+* Designed and implemented leadership and policy analysis courses for senior Pakistani Civil Servants.
+
+## Consultant, Asian Development Bank, Balochistan Resource Management Program Office, Pakistan June – July 2006
+
+* Reviewed the design and delivery of Wheat Subsidy mechanism in Balochistan Province. Based on assessment then designed an alternative subsidy delivery mechanism which was implemented by the ADB to delivery subsidy to targeted beneficiaries.
+
+
+```{r, eval=FALSE}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+"Oxford Programme on Negotiation", "March 2021", "Said Business School", "University of Oxford",
+"Future Leaders Scheme", "2018-2020", "UK Civil Service", "UK",
+"Master in Public Administration", "2007-2008", "LSE", "UK",
+"Master in Public Policy", "2006-2007", "National University of Singapore", "Singapore",
+"Master in Applied Economics", "2001 – 2002", "Applied Economics Research Centre", "Karachi Pakistan"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+# Education and Training
+
+**Oxford Programme on Negotiation, March 2021, Said Business School. University of Oxford**
+
+**Future Leaders Scheme, 2018-2020, UK Civil Service, UK.**
+
+**Master in Applied Sciences (Economics),  CGPR 3.59/4. May, 2001 - July, 2002 Applied Economics Research Centre, University of Karachi, Pakistan**
+
+**Relevant Courses:**  Microeconomics I II, Macroeconomics I & II, Econometrics I, Applied Econometrics and Computer Application, and Monetary Economics
+
+**M.A., Economics  1998 - November 2000. Bahauddin Zakariya University, Multan, Pakistan**
+
+**Relevant Courses:**  Microeconomic Theory, Macroeconomics Theory, Mathematics used in Economics, Statistics, Economic Values of Islam, Economic Development, History of Economic Thought, Comparative Economic System, and Monetary Economics-Theory and Practice.
+
+
+**Master in Public Administration (Merit- 66%) Sept, 2007 - July 2008. London School of Economics and Political Science}, GPPN Scholar**
+
+**Relevant Courses:**  Economic Development Policy, Politics of Money in the World Economy, Politics of Economic Policy, Group Working and Leadership.
+Dissertation: Supervisory Institutional Structure and Banking Sector Development around the World
+**Project:** Developing Indices to Compare Performance across the UK Central Government Departments
+
+**Master in Public Policy, (CAP: 4.71/5)  July, 2006 - May 2008 National University of Singapore (NUS), Lee Kuan Yew School of Public Policy**
+
+**Courses:** States, Markets and International Governance; Non-state Actors in International Relations; Statistical Techniques for Public Policy; Introduction to Public Policy and Analysis; Economic and Public Policy I; Public Financial Management; Political and Organisational Analysis; Economics and Public Policy II; Institutional Design and Analysis; and Public Policy Research and Evaluation.
+
+**Dissertation:** A Comparative Analysis of Banking Supervisory Institutional Structure in Asia-Pacific
+**Independent Study Module:** Banking Sector Reform: A Case Study of Pakistan
+
+# Honors and Awards 
+
+* Future Leadership Scheme for High Potential Civil Servants (2018-2020)
+* Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore  (2007-2008)}
+* Harwin Award for Student Leadership, NUS, Singapore  (2007)}
+* Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore  (2006-2007)
+* American Express Bank Prize, for securing highest marks in Economics  (2004)
+* Applied Economics Research Centre Scholarship, University of Karachi, Pakistan  (2001-2002)
+
+
+# Publications
+
+* Enhancing Coverage of Financial Market Activity (with Muhammad Yaqoob). in  *Economic and Labour Market Review*: 5, pp. 82-99.
+* The Characteristics of Patentors, (with Peter Evans). In *Economic and Labour Market Review*, Office for National Statistics, December 2009.
+* Capitalising Research and Development: Towards New System of National Accounts, (With Lars Wenzell and Peter Evans). In Economic and Labour Market Review}, Office for National Statistics, September 2009.
+* The Quality of Public Sector Management and Economic Inequality, (With Syed Abu Ahmad Akif). In The Role of Public Administration in Building a Harmonious Society }, Asian Development Bank, December 2006.
+* Strategic Management in Financial Institutions: Survival in the 21st Century. In Strategic Management in Financial Institutions: Survival in the 21st Century}, Publisher, Institute of Bankers, Karachi, Pakistan, 2006.
+* The Role of Civil Service Training in Strengthening Democratic Institutions in Pakistan, (with Syed Abu Ahmad Akif). In The Role of Public Administration in Alleviating Poverty and Improving Governance}, Asian Development Bank, December, 2005.
+Inflation and Stock Market Performance: A Case Study of Pakistan, Saving and Development}, April 2004.   
+
+# Reports
+
+* Catapult Programme: A Framework for Evaluating Impact 2017, UK Government Publication. 
+* Office for National Statistics. 2009. "Developing Financial Statistics for Policy." Economics and Labour Market Review-Special Issue: 3. [Team publication]  
+* Innovation, knowledge spending and productivity growth in the UK: Interim report for NESTA Innovation Index project (with Jonathan Haskel, Tony Clayton, Peter Goodridge, Annarosa Pesole, David Barnett, Graeme Chamberlin, Richard Jones, and Alex Turvey)  \url{http://www.nesta.org.uk/library/documents/growth-accounting.pdf}  
+
+*Review of Wheat Subsidy Mechanism of the Food Department, Government of Balochistan, and Replacement of Existing Subsidy with Pro-Poor Targeted Atta Subsidy Mechanism in Balochistan. 
+
+# Computer Skills 
+
+Statistical Packages: STATA, SAS,, R, Eviews.
+Applications:  Microsoft Word, Microsoft Excel, Power Point, Keynote and other common spreadsheet, and presentation software.

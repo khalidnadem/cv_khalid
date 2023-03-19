@@ -1,0 +1,129 @@
+---
+name: M Khalid Nadeem
+surname: Khan 
+position: "Senior Economic Advisor"
+phone: +44 7943 15 2687
+email: "Khalid.Khane@beis.gov.uk"
+# date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Professional Experience
+
+## SENIOR ECONOMIC ADVISOR
+
+## Lead Analyst for the Growth Vouchers Programme, BEIS. 
+July 2013 – August 2016
+
+* Designed Randomised Controlled Trial which deliver business support to over 30 thousand small businesses across England. The programme improved access to business support for first time support users through online channels and delivered on PM’s commitment to support over 20,000 small businesses.
+* Designed an online business recruitment platform to reduce delivery cost and increase access to business support across England. This addressed long-standing issue of lack of robust monitoring and evaluation data.
+* Designed and successfully implemented a leadership and management support intervention with eight business schools across England to test the impact of L&M support on business Growth.
+* Designed and implemented programme evaluation, with £700K budget. This was the largest RCT in business support area and influenced future business support programmes such as the current Help to Grow programme. 
+
+## Lead Analyst on International Trade and Growth, UK Trade and Investment
+June 2012 – July 2013
+
+* Led research on barriers to exporting for small businesses in the UK. The analysis improved recruitment through better targeting of small businesses and long-term policy solutions.
+* Briefed senior leaders on the policy challenge in increasing the number of exporters based on experience of other countries.
+* Commissioned econometric research and business surveys to understand the link between exporting and business growth, and exporting and business innovation to improve effectiveness of UKTI’s portfolio of programmes.
+
+## Project Manager for Developing Financial Statistics, Office for National Statistics 
+April 2011 – June 2012
+
+* Led ONS response on the coverage and reporting of financial activity after the 2008 financial crisis and worked with HMT, BoE, OBR, BEIS and FCA to have a better data on tracking risks that led to 2008 financial crisis.
+* Conducted a Gap Analysis of the coverage of financial assets flow and developed UK flow-of-funds account. This account identified the counter-party risks and how failure of one action in the financial system negatively affect others and could lead to systemic risk.
+
+## Head of Economic Methods Development Team, Office for National Statistics. 
+Dec 2008 – April 2011
+
+* Developed UK’s first account to reclassify R&D expenditure from consumption to investment and include it in the GDP estimates.
+* Led Innovation Index Project for the ONS. This project was the first attempt to measure intangible capital investment (eg R&D, Design, management capabilities) in the UK and estimated contribution of intangible assets to economic growth.
+* Developed economic cases for over 20 business cases for ONS investments in statistical infrastructure and improvement in delivery of statistical outputs.
+
+## INTERNATIONAL WORK EXPERIENCE
+
+## Adjunct Senior Research Fellow, Institute of Policy Studies, Singapore. 
+July – August 2007
+
+* Reviewed the ‘Competition Policy of Singapore’ and conducted a comparative analysis of Singapore competition regime with other small countries such as New Zealand.
+
+## Research Associate, National Institute of Public Administration, Karachi Pakistan.  Oct 2002 – July 2006
+
+* Supervised over 50 research projects to improve efficiency in public service delivery across many government ministries in Pakistan. 
+* Designed and implemented leadership and policy analysis courses for senior Pakistani Civil Servants.
+
+## Consultant, Asian Development Bank, Balochistan Resource Management Program Office, Pakistan June – July 2006
+
+* Reviewed the design and delivery of Wheat Subsidy mechanism in Balochistan Province. Based on assessment then designed an alternative subsidy delivery mechanism which was implemented by the ADB to delivery subsidy to targeted beneficiaries.
+
+
+```{r, eval=FALSE}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+"Oxford Programme on Negotiation", "March 2021", "Said Business School", "University of Oxford",
+"Future Leaders Scheme", "2018-2020", "UK Civil Service", "UK",
+"Master in Public Administration", "2007-2008", "LSE", "UK",
+"Master in Public Policy", "2006-2007", "National University of Singapore", "Singapore",
+"Master in Applied Economics", "2001 – 2002", "Applied Economics Research Centre", "Karachi Pakistan"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+# Education and Training
+
+**Oxford Programme on Negotiation, March 2021, Said Business School. University of Oxford**
+
+**Future Leaders Scheme, 2018-2020, UK Civil Service, UK.**
+
+**Master in Applied Sciences (Economics),  CGPR 3.59/4. May, 2001 - July, 2002 Applied Economics Research Centre, University of Karachi, Pakistan**
+
+**Master in Public Administration (Merit- 66%) Sept, 2007 - July 2008. London School of Economics and Political Science}, GPPN Scholar**
+
+**Master in Public Policy,  July, 2006 - May 2008 National University of Singapore (NUS), Lee Kuan Yew School of Public Policy**
+
+
+# Honors and Awards 
+
+* Future Leadership Scheme for High Potential Civil Servants (2018-2020)
+* Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore  (2007-2008)}
+* Harwin Award for Student Leadership, NUS, Singapore  (2007)}
+* Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore  (2006-2007)
+* American Express Bank Prize, for securing highest marks in Economics  (2004)
+* Applied Economics Research Centre Scholarship, University of Karachi, Pakistan  (2001-2002)
+
+
+# Publications
+
+* Enhancing Coverage of Financial Market Activity (with Muhammad Yaqoob). in  *Economic and Labour Market Review*: 5, pp. 82-99.
+
+* The Characteristics of Patentors, (with Peter Evans). In *Economic and Labour Market Review*, Office for National Statistics, December 2009.
+
+* Capitalising Research and Development: Towards New System of National Accounts, (With Lars Wenzell and Peter Evans). In Economic and Labour Market Review}, Office for National Statistics, September 2009.
+
+* The Quality of Public Sector Management and Economic Inequality, (With Syed Abu Ahmad Akif). In The Role of Public Administration in Building a Harmonious Society }, Asian Development Bank, December 2006.
+
+* Strategic Management in Financial Institutions: Survival in the 21st Century. In Strategic Management in Financial Institutions: Survival in the 21st Century}, Publisher, Institute of Bankers, Karachi, Pakistan, 2006.
+
+* The Role of Civil Service Training in Strengthening Democratic Institutions in Pakistan, (with Syed Abu Ahmad Akif). In The Role of Public Administration in Alleviating Poverty and Improving Governance}, Asian Development Bank, December, 2005.
+Inflation and Stock Market Performance: A Case Study of Pakistan, Saving and Development}, April 2004.   
+
+# Reports
+
+* Evidence for the Innovation Strategy 2021, UK Government Publication.
+
+* Catapult Programme: A Framework for Evaluating Impact 2017, UK Government Publication. 
+
+* Office for National Statistics. 2009. "Developing Financial Statistics for Policy." Economics and Labour Market Review-Special Issue: 3. 
+
+* Innovation, knowledge spending and productivity growth in the UK: Interim report for NESTA Innovation Index project (with Jonathan Haskel, Tony Clayton, Peter Goodridge, Annarosa Pesole, David Barnett, Graeme Chamberlin, Richard Jones, and Alex Turvey)
+
+*Review of Wheat Subsidy Mechanism of the Food Department, Government of Balochistan, and Replacement of Existing Subsidy with Pro-Poor Targeted Atta Subsidy Mechanism in Balochistan. 
+
+# Computer Skills 
+Statistical Packages: STATA, R, and Eviews. Application:  Microsoft Word, Microsoft Excel, Power Point, Microsoft Projects.
