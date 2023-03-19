@@ -6,6 +6,7 @@ phone: +44 20 7215 6885
 email: "Khalid.Khane@beis.gov.uk"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
+bibliography: "references.bib"
 #output: pdf_document
 ---
 
@@ -18,13 +19,13 @@ library(vitae)
 
 ## Deputy Director, Department for Science, Innovation and Technology. Sept 2022 - Ongoing
 
-I lead a diverse team of analysts and provide policy analysis for the UK Science, Research and Innovation. This includes setting the policy direction for over £40 billion investment over the next three years, ensuring government investments have high impact and contribute towards UK economic Growth. 
+I lead a diverse team of analysts and provide policy analysis for the UK Science, Research and Innovation. This includes setting the policy direction for over £40 billion investment over the next three years, ensuring government investments have high impact and contribute toward UK productivity and economic growth. 
 
 *	Lead my team of 20 analysts to ensure the R&D and innovation policy is well informed by analytical insights and ministers understand various tradoffs they face in maximising the impact of govt investment.
 
 * Informing ministerial decisions on UK’s R&D and Innovation strategy with macroeconomic and sectoral policy analysis through policy briefings, position papers and strategic insights.
 
-*	Leading team to develop policy analysis for the UK Science and Technology Framework, business case for Horizon Alternative programme, R&D workforce needs and comparative analysis of business innovation across industry sectors.
+*	Leading policy analysis for the UK Science and Technology Framework, business case for Horizon Alternative programme, R&D workforce needs and comparative analysis of business innovation across industry sectors.
 
 *	Using analytical insights to influence balance of R&D funding across different priority areas, regions and sectors of the economy to maintain and improve UK’s world leading research base and innovation. 
 
@@ -143,7 +144,7 @@ library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
 "Oxford Programme on Negotiation", "March 2021", "Said Business School", "University of Oxford",
-"The Economic Analysis of Public Policy", "Nov 2020", "Kings Collage London". "UK",
+"The Economic Analysis of Public Policy", "Nov 2020", "Kings Collage London", "UK",
 "Future Leaders Scheme", "2018-2020", "UK Civil Service", "UK",
 "Master in Public Administration", "2007-2008", "London School of Economics and political Science", "UK",
 "Master in Public Policy", "2006-2007", "National University of Singapore", "Singapore",
