@@ -3,10 +3,12 @@ name: M Khalid Nadeem
 surname: Khan 
 position: "Deputy Director, Science, Technology and Innovation Analysis"
 phone: +44 20 7215 6885
-email: "Khalid.Khane@beis.gov.uk"
+email: "Khalid.Khan@beis.gov.uk"
 date: "`r format(Sys.time(), '%B %Y')`"
-output: vitae::awesomecv
-bibliography: "references.bib"
+#output: vitae::awesomecv
+output: vitae::moderncv
+bibliography: references.bib
+csl: APA_CV.csl
 #output: pdf_document
 ---
 
@@ -17,127 +19,123 @@ library(vitae)
 
 # Professional Experience
 
-## Deputy Director, Department for Science, Innovation and Technology. Sept 2022 - Ongoing
+## Department for Science, Innovation and Technology, UK.
 
-I lead a diverse team of analysts and provide policy analysis for the UK Science, Research and Innovation. This includes setting the policy direction for over £40 billion investment over the next three years, ensuring government investments have high impact and contribute toward UK productivity and economic growth. 
+## Deputy Director, Science, Technology and Innovation Analysis. Sept 2022-Ongoing
 
-*	Lead my team of 20 analysts to ensure the R&D and innovation policy is well informed by analytical insights and ministers understand various tradoffs they face in maximising the impact of govt investment.
+I lead a diverse team of analysts and provide policy analysis for the UK Science, Research and Innovation policy. This includes setting the policy direction with robust analysis for over £40 billion investment in the next three years, ensuring government investments create high impact and contribute toward UK productivity and economic growth. My responsibilities include:
 
-* Informing ministerial decisions on UK’s R&D and Innovation strategy with macroeconomic and sectoral policy analysis through policy briefings, position papers and strategic insights.
+-   Lead my team (Economists, Social Researchers, Data Scientists, Statisticians) to ensure analytical insights and robust evidence informs the R&D and innovation policies.
 
-*	Leading policy analysis for the UK Science and Technology Framework, business case for Horizon Alternative programme, R&D workforce needs and comparative analysis of business innovation across industry sectors.
+-   Influence ministerial decisions on UK's R&D and Innovation strategies with macroeconomic, programme level, regional and sectoral analysis through policy briefings, position papers and strategic insights.
 
-*	Using analytical insights to influence balance of R&D funding across different priority areas, regions and sectors of the economy to maintain and improve UK’s world leading research base and innovation. 
+-   Lead policy analysis for the UK Science and Technology Framework, implement recommendations of independent reviews, business case for Horizon Alternative programme, R&D workforce needs and comparative analysis of business innovation across technology, regions, industries and sectors.
 
-*	Collaborate with partner organisations to leverage knowledge creation on over 100 R&D programmes and disseminate good practice in programme design, implementation and benefit maximisation.
+-   Using analytical insights to influence balance of R&D funding across priority areas, regions and sectors of the economy to maintain and improve UK's world leading research base and innovation.
 
-*	Overseeing internal research and externally commissioned projects including gap analysis of UK’s R&D and innovation strength, international benchmarking, econometric analysis of R&D return across the economy, sectors and regions, and mapping of UK innovation cluster using machine learning techniques.
+-   Collaborate with partner organisations to leverage knowledge creation on over 130 R&D programmes and disseminate good practice in programme design, implementation and benefit maximisation.
 
-*	Representing UK at international forums including serving at multiple OECD committees to improve cross country cooperation on R&D and innovation indicators and effective policy responses to global challenges.
+-   Oversee internal research and externally commissioned projects including gap analysis of UK's R&D and innovation strength, international benchmarking of UK's strenghts, econometric analysis of R&D public and private returns, sectors and regions, and mapping of UK innovation cluster to direct FDI to them.
 
-*	Oversee the work of senior analysts in the team, external contractors and sign-off business cases for over £70 million investment.  
+-   Represent UK at international forums including serving at OECD committees to improve cross country cooperation on R&D and innovation indicators and effective policy responses to global challenges.
 
+-   Oversee the work of senior analysts in the team, external contractors and sign-off business cases for over £70 million investment.
 
-## Deaprtment for Business Energy and Industrial Strategy
+## Deaprtment for Business Energy and Industrial Strategy, UK.
 
-## Head of Strategic Innovation Analysis. March 2019- Sept 2022.
+## Head of Strategic Innovation Analysis. March 2019-Sept 2022.
 
+I led cutting edge policy analysis for UK's R&D and Innovation policies to stimulate economic growth across regions and industry sectors. In addition, I prepared a multi-year bid for R&D investment and successfully got approveal of over £10 billion investment per annum in the R&D system. I appraised investment projects of hundreds of millions of R&D investment to maintain UK's leadership in science and technology. In perticular I:
 
-I led cutting edge policy analysis for UK’s R&D and Innovation policies to stimulate economic growth across regions and industry sectors. In addition, I appraised investment projects covering billions of R&D investment to improve the quality and delivery of R&D schemes across the UK.  
+-   Led a high performing multi-disciplinary team of 11 analysts including recruiting, coaching, and developing team members to deliver departmental priorites.
 
-*	Led a high performing multi-disciplinary team of 11 analysts including recruiting, coaching, and developing team members to deliver BEIS main priority of Unleashing Innovation. 
+-   Briefed BEIS ministers, Senior Leadership Team (SLT) on evidence related to design, implementation and effectiveness of R&D policies and other strategic issues.
 
-*	Briefed BEIS ministers, Senior Leadership Team (SLT) on evidence related to design, implementation and effectiveness of R&D policies and other strategic issues.
+-   Effectively developed evidence base for BEIS R&D and innovation policies including setting and achieving 2.4% of GDP R&D investment target to improve productivity and economic growth across the UK. This included BEIS major evidence paper: Evidene for the UK Innovation Strategy.
 
-*	Effectively developed evidence base for BEIS R&D and innovation policies including setting and achieving 2.4% of GDP R&D investment target to improve productivity and economic growth across the UK.
+-   Ensured value-for-money of over £6 billion R&D investment portfolio through successful development of business cases such as the case for stretgic funds to address poor productivity growth, establishment of the Advanced Research and Invention Agency.
 
-*	Ensured value-for-money of over £6 billion R&D investment portfolio through successful approval of business cases such as the case for Horizon Alternatives, Advanced Research and Invention Agency and quality.
+-   Implemented best practice in BEIS partner organisations to improve the quality of business cases and impact evaluation of R&D programmes to ensure the investment created intended impacts.
 
-*	Implemented best practice guidance for BEIS partner organisations to improve the quality of business cases and impact evaluation of R&D portfolio.
+-   Worked side-by-side with policy teams and analysts in Partner Organisations, such as UK Research and Innovation, to implement R&D programmes, increase economic growth and productivity.
 
-*	Worked side-by-side with policy teams and analysts in Partner Organisations, such as UK Research and Innovation, to implement R&D programmes, increase economic growth and productivity.
+-   Represented the UK at OECD's committee: National Experts on Science and Technology Indicators. Served as a penel member of The Evaluation and Trial Advice Panel (ETAP) and provided expert advice to set-up large scale Randomised Constrolled Trial.
 
-*	Represented the UK at OECD’s committee: National Experts on Science and Technology Indicators.
+-   Successfully expanded evidence base on long-term challenges the UK R&D and innovation system faced. The evidence base influenced BEIS ministers and HM Treasurey decision making.
 
-*	Provided expert advice to three trails in HMG through the Cross Government Trial panel.
+-   Mentored BEIS staff, improved diversity through supporting activities of the Race-to-the-Top group.
 
-*	Successfully completed research projects to further develop the evidence base to influence BEIS ministers, HMT, and No 10. Managed research budget between 400-500K every year.
+## Head of R&D Appraisal and Evaluation. September 2016 -- February 2019
 
-*	Mentored BEIS staff, improved diversity through supporting activities of the Race-to-the-Top group.
+I led a team of 8 analysts and provided high quality evidence for UK's innovation policy, ensured R&D business cases were high quality and impact evaluations across R&D portfolio followed best practice guidance.
 
+-   Built a multi-disciplinary team of analysts which developed evidence base to support R&D strategy development including the R&D Roadmap, Monitoring and Evaluation of the R&D portfolio with over 150 programmes, wrote budget and Spending Review bids, and influenced ministers and senior decision makers with clear, concise and authoritative evidence.
 
-## Head of R&D Appraisal and Evaluation. September 2016 – February 2019
+-   Built analytical capability in team through commissioning research, improved staff's management, analytical skills and improved quality of analysis with best practice guidance across the BEIS' partner organisations. Managed change effectively in team through creating culture of learning and improvement.
 
-I led a team of 8 analysts and provided high quality evidence for R&D policy, ensured R&D business cases were high quality and impact evaluations across R&D portfolio followed best practice guidance. 
+-   Worked with partner organisations (Innovate UK, Research Councils, Met Office) to address gaps in programme data collection and implementation of impact evaluation. Also wrote business cases to deliver Industrial Strategy priorities such as the Industrial Strategy Challenge Fund with £1bn budget.
 
-*	Built a multi-disciplinary team of analysts which developed evidence base to support the R&D Roadmap, M&E of the R&D portfolio with over 150 programmes, wrote budget and Spending Review bids, and influenced ministers and senior decision makers with clear, concise and authoritative evidence.
+-   Improved directorate In Year Awards to improve fairness and efficiency and improved the selection process of Fast Stream for available vacancies in BEIS.
 
-*	Built analytical capability in team through commissioning research, improved staff’s management, analytical skills and improved quality of analysis with best practice guidance across the BEIS’ partner organisations. Managed change effectively in team through creating culture of learning and improvement.
+## Deaprtment for Business, Innovation and Skills
 
-*	Worked with partner organisations (Innovate UK, Research Councils, Met Office) to address gaps in programme data collection and implementation of impact evaluation. Also wrote business cases to deliver Industrial Strategy priorities such as the Industrial Strategy Challenge Fund with £1bn budget.
+## Lead Analyst for the Growth Vouchers Programme.
 
-*	Managed analytical research contracts ranging 300-500K per year.
+July 2013 -- August 2016
 
-*	Improved directorate In Year Awards to improve fairness and efficiency and improved the selection process of Fast Stream for available vacancies in BEIS.
+I developed and implemented the largest Randomised Controlled Trail (RCT) in the UK to test the effectiveness of on-line and face-to-face business advice for over 30K businesses across England. I also designed an RCT with eight English business schools to improve growth of local small businesses.
 
+-   Designed two Randomised Controlled Trials which delivered business support to over 30 thousand small businesses across England. The programme improved access to business support for SMEs and delivered on PM's commitment to support small businesses.
 
-## ECONOMIC ADVISOR
+-   Designed an on-line business recruitment platform to reduce delivery cost and increase access to business support across England. This addressed long-standing issue of lack of robust evidence on the impact of business support.
 
-## Lead Analyst for the Growth Vouchers Programme, BEIS. 
-July 2013 – August 2016
+-   Designed and successfully implemented a leadership and management support intervention with eight business schools across England to test the impact of Leadership and Management support on business growth.
 
-I developed and implemented the largest Randomised Controlled Trail (RCT) in the UK to test the effectiveness of online and face-to-face business advice for over 30K businesses across England. Also designed an RCT with eight English business schools to improve growth of local small businesses.
+-   Designed and implemented programme evaluation, with £700K budget. This was the largest RCT in business support and influenced future business support programmes such as currently implemented Help to Grow schemes.
 
-*	Designed two Randomised Controlled Trials which delivered business support to over 30 thousand small businesses across England. The programme improved access to business support for SMEs and delivered on PM’s commitment to support small businesses.
+## Lead Analyst on International Trade and Growth, UK Trade and Investment.
 
-*	Designed an online business recruitment platform to reduce delivery cost and increase access to business support across England. This addressed long-standing issue of lack of robust evidence on the impact of business support.
+June 2012 -- July 2013
 
-*	Designed and successfully implemented a leadership and management support intervention with eight business schools across England to test the impact of Leadership and Management support on business growth.
+-   Build evidence base on barriers to exporting for UK small businesses. The analysis improved small business access to export services through better targeting and new interventions.
 
-*	Designed and implemented programme evaluation, with £700K budget. This was the largest RCT in business support and influenced future business support programmes such as currently implemented Help to Grow schemes.  
+-   Influenced senior leadership in addressing challenges in increasing the number of small businesses to increase their export and achieve UKTI targets.
 
+-   Commissioned research and business surveys to understand how exporting leads to sales and staff growth in businesses and what type of businesses face barriers in exporting their goods and services
 
-## Lead Analyst on International Trade and Growth, UK Trade and Investment
-June 2012 – July 2013
+## Project Manager for Developing Financial Statistics, Office for National Statistics.
 
-* Build evidence base on barriers to exporting for UK small businesses. The analysis improved small business access to export services through better targeting and new interventions.
+April 2011 -- June 2012
 
-*	Influenced senior leadership in addressing challenges in increasing the number of small businesses to increase their export and achieve UKTI targets.
+-   Led ONS response on the coverage and reporting of financial activity after the 2008 financial crisis and worked with HMT, BoE, OBR, BEIS and FCA to have a better data on tracking risks that led to 2008 financial crisis.
 
-*	Commissioned research and business surveys to understand how exporting leads to sales and staff growth in businesses and what type of businesses face barriers in exporting their goods and services
+-   Conducted a Gap Analysis of the coverage of financial assets flow and developed UK flow-of-funds account. This account identified the counter-party risks and how failure of one action in the financial system negatively affect others and could lead to systemic risk.
 
+## Head of Economic Methods Development Team, Office for National Statistics.
 
-## Project Manager for Developing Financial Statistics, Office for National Statistics 
-April 2011 – June 2012
+Dec 2008 -- April 2011
 
-* Led ONS response on the coverage and reporting of financial activity after the 2008 financial crisis and worked with HMT, BoE, OBR, BEIS and FCA to have a better data on tracking risks that led to 2008 financial crisis.
-
-* Conducted a Gap Analysis of the coverage of financial assets flow and developed UK flow-of-funds account. This account identified the counter-party risks and how failure of one action in the financial system negatively affect others and could lead to systemic risk.
-
-## Head of Economic Methods Development Team, Office for National Statistics. 
-Dec 2008 – April 2011
-
-* Developed UK’s first account to reclassify R&D expenditure from consumption to investment and include it in the GDP estimates.
-* Led Innovation Index Project for the ONS. This project was the first attempt to measure intangible capital investment (e.g. R&D, Design, management capabilities) in the UK and estimated contribution of intangible assets to economic growth.
-* Developed economic cases for over 20 business cases for ONS investments in statistical infrastructure and improvement in delivery of statistical outputs.
+-   Developed UK's first account to reclassify R&D expenditure from consumption to investment and include it in the GDP estimates.
+-   Led Innovation Index Project for the ONS. This project was the first attempt to measure intangible capital investment (e.g. R&D, Design, management capabilities) in the UK and estimated contribution of intangible assets to economic growth.
+-   Developed economic cases for over 20 business cases for ONS investments in statistical infrastructure and improvement in delivery of statistical outputs.
 
 ## INTERNATIONAL WORK EXPERIENCE
 
-## Adjunct Senior Research Fellow, Institute of Policy Studies, Singapore. 
-July – August 2007
+## Adjunct Senior Research Fellow, Institute of Policy Studies, Singapore.
 
-* Reviewed the ‘Competition Policy of Singapore’ and conducted a comparative analysis of Singapore competition regime with other small countries such as New Zealand.
+July -- August 2007
 
-## Research Associate, National Institute of Public Administration, Karachi Pakistan.  Oct 2002 – July 2006
+-   Reviewed the 'Competition Policy of Singapore' and conducted a comparative analysis of Singapore competition regime with other small countries such as New Zealand.
 
-* Supervised over 50 research projects to improve efficiency in public service delivery across many government ministries in Pakistan. 
+## Research Associate, National Institute of Public Administration, Karachi Pakistan. Oct 2002 -- July 2006
 
-* Designed and implemented leadership and policy analysis courses for senior Pakistani Civil Servants.
+-   Supervised over 50 research projects to improve efficiency in public service delivery across many government ministries in Pakistan.
 
-## Consultant, Asian Development Bank, Balochistan Resource Management Program Office, Pakistan June – July 2006
+-   Designed and implemented leadership and policy analysis courses for senior Pakistani Civil Servants.
 
-* Reviewed the design and delivery of Wheat Subsidy scheme in Balochistan Province. Based on my assessment then I designed an alternative subsidy delivery mechanism to reduce leakages and improve access for low income families. ADB implemented my propsoed delivery mechanism which lead to improved outcomes.
+## Consultant, Asian Development Bank, Balochistan Resource Management Program Office, Pakistan June -- July 2006
 
+-   Reviewed the design and delivery of Wheat Subsidy scheme in Balochistan Province. Based on my assessment then I designed an alternative subsidy delivery mechanism to reduce leakages and improve access for low income families. ADB implemented my proposed delivery mechanism which lead to improved outcomes.
 
 ```{r, eval=FALSE}
 library(tibble)
@@ -152,6 +150,7 @@ tribble(
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)
 ```
+
 # Education and Training
 
 **Oxford Programme on Negotiation, March 2021, Said Business School. University of Oxford**
@@ -160,67 +159,61 @@ tribble(
 
 **Future Leaders Scheme, 2018-2020, UK Civil Service, UK.**
 
-**Master in Applied Sciences (Economics),  CGPR 3.59/4. May, 2001 - July, 2002 Applied Economics Research Centre, University of Karachi, Pakistan**
+**Master in Applied Sciences Economics. May, 2001 - July, 2002 Applied Economics Research Centre, University of Karachi, Pakistan**
 
-**Relevant Courses:**  Microeconomics I II, Macroeconomics I & II, Econometrics I, Applied Econometrics and Computer Application, and Monetary Economics
+**Relevant Courses:** Microeconomics I II, Macroeconomics I & II, Econometrics I, Applied Econometrics and Computer Application, and Monetary Economics
 
-**M.A., Economics  1998 - November 2000. Bahauddin Zakariya University, Multan, Pakistan**
+**M.A., Economics 1998 - November 2000. Bahauddin Zakariya University, Multan, Pakistan**
 
-**Relevant Courses:**  Microeconomic Theory, Macroeconomics Theory, Mathematics used in Economics, Statistics, Economic Values of Islam, Economic Development, History of Economic Thought, Comparative Economic System, and Monetary Economics-Theory and Practice.
+**Relevant Courses:** Microeconomic Theory, Macroeconomics Theory, Mathematics used in Economics, Statistics, Economic Values of Islam, Economic Development, History of Economic Thought, Comparative Economic System, and Monetary Economics-Theory and Practice.
 
+**Master in Public Administration Sept, 2007 - July 2008. London School of Economics and Political Science, GPPN Scholar**
 
-**Master in Public Administration (Merit- 66%) Sept, 2007 - July 2008. London School of Economics and Political Science}, GPPN Scholar**
+**Relevant Courses:** Economic Development Policy, Politics of Money in the World Economy, Politics of Economic Policy, Group Working and Leadership. Dissertation: Supervisory Institutional Structure and Banking Sector Development around the World **Project:** Developing Indices to Compare Performance across the UK Central Government Departments
 
-**Relevant Courses:**  Economic Development Policy, Politics of Money in the World Economy, Politics of Economic Policy, Group Working and Leadership.
-Dissertation: Supervisory Institutional Structure and Banking Sector Development around the World
-**Project:** Developing Indices to Compare Performance across the UK Central Government Departments
-
-**Master in Public Policy, (CAP: 4.71/5)  July, 2006 - May 2008 National University of Singapore (NUS), Lee Kuan Yew School of Public Policy**
+**Master in Public Policy July, 2006 - May 2008 National University of Singapore (NUS), Lee Kuan Yew School of Public Policy**
 
 **Courses:** States, Markets and International Governance; Non-state Actors in International Relations; Statistical Techniques for Public Policy; Introduction to Public Policy and Analysis; Economic and Public Policy I; Public Financial Management; Political and Organisational Analysis; Economics and Public Policy II; Institutional Design and Analysis; and Public Policy Research and Evaluation.
 
-**Dissertation:** A Comparative Analysis of Banking Supervisory Institutional Structure in Asia-Pacific
-**Independent Study Module:** Banking Sector Reform: A Case Study of Pakistan
+**Dissertation:** A Comparative Analysis of Banking Supervisory Institutional Structure in Asia-Pacific **Independent Study Module:** Banking Sector Reform: A Case Study of Pakistan
 
-# Honors and Awards 
+# Honors and Awards
 
-* Future Leadership Scheme for High Potential Civil Servants (2018-2020)
-* Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore  (2007-2008)}
-* Harwin Award for Student Leadership, NUS, Singapore  (2007)}
-* Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore  (2006-2007)
-* American Express Bank Prize, for securing highest marks in Economics  (2004)
-* Applied Economics Research Centre Scholarship, University of Karachi, Pakistan  (2001-2002)
-
+-   Future Leaders Scheme for High Potential Civil Servants (2018-2020)
+-   Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore (2007-2008)
+-   Harwin Award for Student Leadership, NUS, Singapore (2007)
+-   Lee Kuan Yew School of Public Policy Scholarship, NUS, Singapore (2006-2007)
+-   American Express Bank Prize, for securing highest marks in Economics (2004)
+-   Applied Economics Research Centre Scholarship, University of Karachi, Pakistan (2001-2002)
 
 # Publications
 
-* Breaking the Breakers – Public Policy & Governance Case Studies from Pakistan (Edited with Syed Abu Ahmad Akif), 2021. 
+-   Breaking the Breakers -- Public Policy & Governance Case Studies from Pakistan (Edited with Syed Abu Ahmad Akif), 2021.
 
-* Enhancing Coverage of Financial Market Activity (with Muhammad Yaqoob), 2011. in  *Economic and Labour Market Review*: 5, pp. 82-99.
+-   Enhancing Coverage of Financial Market Activity (with Muhammad Yaqoob), 2011. in *Economic and Labour Market Review*: 5, pp. 82-99.
 
-* The Characteristics of Patentors, (with Peter Evans). In *Economic and Labour Market Review*, Office for National Statistics, December 2009.
+-   The Characteristics of Patentors, (with Peter Evans). In *Economic and Labour Market Review*, Office for National Statistics, December 2009.
 
-* Capitalising Research and Development: Towards New System of National Accounts, (With Lars Wenzell and Peter Evans). In Economic and Labour Market Review}, Office for National Statistics, September 2009.
+-   Capitalising Research and Development: Towards New System of National Accounts, (With Lars Wenzell and Peter Evans). In Economic and Labour Market Review}, Office for National Statistics, September 2009.
 
-* The Quality of Public Sector Management and Economic Inequality, (With Syed Abu Ahmad Akif). In The Role of Public Administration in Building a Harmonious Society }, Asian Development Bank, December 2006.
+-   The Quality of Public Sector Management and Economic Inequality, (With Syed Abu Ahmad Akif). In The Role of Public Administration in Building a Harmonious Society }, Asian Development Bank, December 2006.
 
-* Strategic Management in Financial Institutions: Survival in the 21st Century. In Strategic Management in Financial Institutions: Survival in the 21st Century}, Publisher, Institute of Bankers, Karachi, Pakistan, 2006.
+-   Strategic Management in Financial Institutions: Survival in the 21st Century. In Strategic Management in Financial Institutions: Survival in the 21st Century}, Publisher, Institute of Bankers, Karachi, Pakistan, 2006.
 
-* The Role of Civil Service Training in Strengthening Democratic Institutions in Pakistan, (with Syed Abu Ahmad Akif). In The Role of Public Administration in Alleviating Poverty and Improving Governance}, Asian Development Bank, December, 2005.
-Inflation and Stock Market Performance: A Case Study of Pakistan, Saving and Development}, April 2004.   
+-   The Role of Civil Service Training in Strengthening Democratic Institutions in Pakistan, (with Syed Abu Ahmad Akif). In The Role of Public Administration in Alleviating Poverty and Improving Governance}, Asian Development Bank, December, 2005. Inflation and Stock Market Performance: A Case Study of Pakistan, Saving and Development}, April 2004.
 
 # Reports
 
-* Evidence for the UK Innovation Strategy (2021), Department for Businesses, Energy and Industrial Strategy. \url{https://www.gov.uk/government/publications/evidence-for-the-uk-innovation-strategy}
+-   Evidence for the UK Innovation Strategy (2021), Department for Businesses, Energy and Industrial Strategy. \url{https://www.gov.uk/government/publications/evidence-for-the-uk-innovation-strategy}
 
-* Catapult Programme: A Framework for Evaluating Impact 2017, UK Government Publication. 
+-   Catapult Programme: A Framework for Evaluating Impact 2017, UK Government Publication.
 
-* Office for National Statistics. 2009. "Developing Financial Statistics for Policy." Economics and Labour Market Review-Special Issue: 3. [Team publication]
+-   Office for National Statistics. 2009. "Developing Financial Statistics for Policy." Economics and Labour Market Review-Special Issue: 3. [Team publication]
 
-* Innovation, knowledge spending and productivity growth in the UK: Interim report for NESTA Innovation Index project (with Jonathan Haskel, Tony Clayton, Peter Goodridge, Annarosa Pesole, David Barnett, Graeme Chamberlin, Richard Jones, and Alex Turvey)  \url{http://www.nesta.org.uk/library/documents/growth-accounting.pdf}  
+-   Innovation, knowledge spending and productivity growth in the UK: Interim report for NESTA Innovation Index project (with Jonathan Haskel, Tony Clayton, Peter Goodridge, Annarosa Pesole, David Barnett, Graeme Chamberlin, Richard Jones, and Alex Turvey) \url{http://www.nesta.org.uk/library/documents/growth-accounting.pdf}
 
-* Review of Wheat Subsidy Mechanism of the Food Department, Government of Balochistan, and Replacement of Existing Subsidy with Pro-Poor Targeted Atta Subsidy Mechanism in Balochistan. 
+-   Review of Wheat Subsidy Mechanism of the Food Department, Government of Balochistan, and Replacement of Existing Subsidy with Pro-Poor Targeted Atta Subsidy Mechanism in Balochistan.
 
-# Computer Skills 
+# Computer Skills
 
 Statistical Packages: R and STATA.

@@ -1,12 +1,12 @@
 ---
 name: M Khalid Nadeem
 surname: Khan 
-position: "Senior Economic Advisor"
+position: "Deputy Director, Science, Technology and Innovation Analysis"
 phone: +44 7943 15 2687
-email: "Khalid.Khane@beis.gov.uk"
+email: "Khalid.Khan@beis.gov.uk"
 # date: "`r format(Sys.time(), '%B %Y')`"
-output: 
-  word_document: default
+output: vitae::awesomecv
+#output: word_document: default
 ---
 
 ```{r setup, include=FALSE}
